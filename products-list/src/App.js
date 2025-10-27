@@ -37,6 +37,12 @@ const PRODUCTS = [
         price: "$1",
         stocked: true,
         name: "Peas"
+    },
+    {
+        category: "Fruit",
+        price: "$100",
+        stocked: true,
+        name: "Banana"
     }
 ]
 
